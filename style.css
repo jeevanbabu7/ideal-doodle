@@ -1,0 +1,47 @@
+.heading{
+    text-align: center;
+}
+.form-group{
+    text-align: center;
+}
+.upload{
+    font-size: 14px;
+    color:rgb(87, 128, 114);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width:85%;
+    text-align: center;
+    margin-top:5px;
+}
+.items{
+    padding:5px;
+    text-align:center;
+    width: 85%;
+    height: 50px;
+    
+}
+input{
+    border-radius: 5px;
+}
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+
+}
+#navbar.a:hover{
+    background-color: darkblue;
+    color: white;
+}
+th,td{
+    border: none;
+    border-bottom: solid black;
+    font-size: 1em;
+}
+p{
+    font-size: x-large;
+}
+
+label{
+    font-size: large;
+    m
+}
